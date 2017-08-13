@@ -491,7 +491,7 @@ body {
 .download-app {
   position: relative;
   color: white;
-  background-image: url(../../img/iphone-hand-mobile@1x.png);
+  background-image: url(../img/iphone-hand-mobile@1x.png);
   background-repeat: no-repeat;
   background-size: 258px auto;
   background-position-y: 110px;
