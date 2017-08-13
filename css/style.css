@@ -548,20 +548,20 @@ body {
   vertical-align: middle;
 }
 .download‐links__item--ios {
-  background-image: url(../../img/logo-apple.svg);
+  background-image: url(../img/logo-apple.svg);
   background-repeat: no-repeat;
   background-position-x: 5px;
   background-position-y: 0;
 }
 .download‐links__item--android {
-  background-image: url(../../img/logo-android.svg);
+  background-image: url(../img/logo-android.svg);
   background-repeat: no-repeat;
   background-position-x: 35px;
   background-position-y: 7px;
   padding-right: 50px;
 }
 .download‐links__item--windows {
-  background-image: url(../../img/logo-microsoft.svg);
+  background-image: url(../img/logo-microsoft.svg);
   background-repeat: no-repeat;
   background-position-x: 7px;
   background-position-y: 10px;
@@ -592,7 +592,7 @@ body {
 .offers__wrap {
   min-height: 717px;
   text-align: center;
-  background-image: url(../../img/iphone-screen-mobile@1x.png);
+  background-image: url(../img/iphone-screen-mobile@1x.png);
   background-repeat: no-repeat;
   background-position-x: center;
   background-position-y: 509px;
@@ -615,7 +615,7 @@ body {
 }
 .offers__bg-wrap {
   background-color: #f2f2f2;
-  background-image: url(../../img/bg-triangle-white.svg);
+  background-image: url(../img/bg-triangle-white.svg);
   background-repeat: no-repeat;
   background-size: contain;
 }
@@ -697,7 +697,7 @@ body {
 }
 .table {
   background-color: #e5e5e5;
-  background-image: url(../../img/bg-triangle-white.svg);
+  background-image: url(../img/bg-triangle-white.svg);
   background-repeat: no-repeat;
   background-size: contain;
 }
@@ -755,7 +755,7 @@ body {
 }
 .table-price__name--hit {
   position: relative;
-  background-image: url(../../img/bg-hit.svg);
+  background-image: url(../img/bg-hit.svg);
   background-repeat: no-repeat;
 }
 .table-price__name--hit .table-price__name-hit {
@@ -792,10 +792,10 @@ body {
   background-position-y: 17px;
 }
 .table-body__cell--check {
-  background-image: url(../../img/icon-yes.svg);
+  background-image: url(../img/icon-yes.svg);
 }
 .table-body__cell--uncheck {
-  background-image: url(../../img/icon-no.svg);
+  background-image: url(../img/icon-no.svg);
 }
 .feedback {
   min-height: 413px;
@@ -832,7 +832,7 @@ body {
 .map {
   position: relative;
   width: 100%;
-  background-image: url(../../img/bg-map-mobile@1x.png);
+  background-image: url(../img/bg-map-mobile@1x.png);
   background-repeat: no-repeat;
   background-position-x: center;
   background-color: lightgrey;
@@ -843,7 +843,7 @@ body {
   width: 100%;
   height: 75px;
   z-index: 2;
-  background-image: url(../../img/bg-triangle-white-footer.svg);
+  background-image: url(../img/bg-triangle-white-footer.svg);
   background-repeat: no-repeat;
   top: 0;
   background-size: contain;
@@ -947,7 +947,7 @@ body {
   background-color: white;
 }
 .form-wrap__fieldset input[type="checkbox"]:checked + label::after {
-  background-image: url(../../img/icon-yes-form.svg);
+  background-image: url(../img/icon-yes-form.svg);
   background-repeat: no-repeat;
   background-position-x: 6px;
   background-position-y: 6px;
@@ -1283,7 +1283,7 @@ body {
   top: 13px;
   width: 15px;
   height: 15px;
-  background-image: url(../../img/icon-heart.svg);
+  background-image: url(../img/icon-heart.svg);
   background-repeat: no-repeat;
 }
 .photo-main__footer {
@@ -1364,7 +1364,7 @@ body {
   background-color: #d22856;
 }
 .bg-header-wrap {
-  background-image: url(../../img/bg-back-mobile@1x.jpg);
+  background-image: url(../img/bg-back-mobile@1x.jpg);
   background-color: #1d2631;
   background-repeat: no-repeat;
   background-size: 700px auto;
@@ -1404,17 +1404,17 @@ body {
 }
 @media (min-width: 320px) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 320px) and (min-resolution: 144dpi), (min-width: 320px) and (min-resolution: 1.5dppx) {
   .download-app {
-    background-image: url(../../img/iphone-hand-mobile@2x.png);
+    background-image: url(../img/iphone-hand-mobile@2x.png);
   }
   .offers__wrap {
-    background-image: url(../../img/iphone-screen-mobile@2x.png);
+    background-image: url(../img/iphone-screen-mobile@2x.png);
     background-size: 157px auto;
   }
   .map {
-    background-image: url(../../img/bg-map-mobile@2x.jpg);
+    background-image: url(../img/bg-map-mobile@2x.jpg);
   }
   .bg-header-wrap {
-    background-image: url(../../img/bg-back-mobile@2x.jpg);
+    background-image: url(../img/bg-back-mobile@2x.jpg);
   }
 }
 @media (min-width: 660px) {
@@ -1441,7 +1441,7 @@ body {
     display: flex;
     -ms-flex-align: center;
     align-items: center;
-    background-image: url(../../img/iphone-hand-tablet@1x.png);
+    background-image: url(../img/iphone-hand-tablet@1x.png);
     background-repeat: no-repeat;
     background-size: 700px auto;
     background-position-x: -20px;
@@ -1505,7 +1505,7 @@ body {
     min-height: 433px;
     background-position: 21px;
     padding-top: 50px;
-    background-image: url(../../img/iphone-screen-3-tablet@1x.png);
+    background-image: url(../img/iphone-screen-3-tablet@1x.png);
   }
   .offers__bg-wrap {
     background-size: 186%;
@@ -1557,7 +1557,7 @@ body {
     order: 2;
   }
   .reviews__timer {
-    background-image: url(../../img/icon-timer.svg);
+    background-image: url(../img/icon-timer.svg);
     background-repeat: no-repeat;
     background-position-x: -50px;
     height: 345px;
@@ -1612,7 +1612,7 @@ body {
     font-weight: 300;
   }
   .table-price__name--hit {
-    background-image: url(../../img/bg-hit-tablet.svg);
+    background-image: url(../img/bg-hit-tablet.svg);
   }
   .table-price__name--hit .table-price__name-hit {
     top: 12px;
@@ -1661,7 +1661,7 @@ body {
     padding-bottom: 10px;
   }
   .map {
-    background-image: url(../../img/bg-map-tablet@1x.jpg);
+    background-image: url(../img/bg-map-tablet@1x.jpg);
     background-repeat: no-repeat;
   }
   .map__id {
@@ -1797,7 +1797,7 @@ body {
     background-position-x: 18px;
     background-position-y: 21px;
     top: 9px;
-    background-image: url(../../img/icon-phone.svg);
+    background-image: url(../img/icon-phone.svg);
   }
   .form-wrap__fieldset-inner:last-of-type::before {
     position: absolute;
@@ -1810,7 +1810,7 @@ body {
     background-position-x: 18px;
     background-position-y: 21px;
     bottom: 61px;
-    background-image: url(../../img/icon-mail.svg);
+    background-image: url(../img/icon-mail.svg);
   }
   .form-wrap__fieldset-inner {
     display: -ms-flexbox;
@@ -1906,7 +1906,7 @@ body {
     padding-right: 5px;
   }
   .bg-header-wrap__headline {
-    background-image: url(../../img/bg-back-tablet@1x.jpg);
+    background-image: url(../img/bg-back-tablet@1x.jpg);
     background-position-x: -270px;
     background-position-y: -111px;
   }
@@ -2101,7 +2101,7 @@ body {
     width: 240px;
   }
   .bg-header-wrap {
-    background-image: url(../../img/bg-back-tablet@1x.jpg);
+    background-image: url(../img/bg-back-tablet@1x.jpg);
     background-position-y: 253px;
     background-position-x: -270px;
     background-size: 1200px auto;
@@ -2124,17 +2124,17 @@ body {
 }
 @media (min-width: 660px) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 660px) and (min-resolution: 144dpi), (min-width: 660px) and (min-resolution: 1.5dppx) {
   .download-app {
-    background-image: url(../../img/iphone-hand-tablet@2x.png);
+    background-image: url(../img/iphone-hand-tablet@2x.png);
   }
   .offers__wrap {
-    background-image: url(../../img/iphone-screen-3-tablet@2x.png);
+    background-image: url(../img/iphone-screen-3-tablet@2x.png);
     background-size: 268px auto;
   }
   .map {
-    background-image: url(../../img/bg-map-tablet@2x.jpg);
+    background-image: url(../img/bg-map-tablet@2x.jpg);
   }
   .bg-header-wrap {
-    background-image: url(../../img/bg-back-tablet@2x.jpg);
+    background-image: url(../img/bg-back-tablet@2x.jpg);
   }
 }
 @media (min-width: 960px) {
@@ -2208,7 +2208,7 @@ body {
     -ms-flex-pack: start;
     justify-content: flex-start;
     height: 748px;
-    background-image: url(../../img/iphone-hand-desktop@1x.png);
+    background-image: url(../img/iphone-hand-desktop@1x.png);
     background-size: 1050px auto;
     background-repeat: no-repeat;
     background-position-x: 26px;
@@ -2299,13 +2299,13 @@ body {
     margin-top: 25px;
   }
   .offers__wrap > :nth-child(1) {
-    background-image: url(../../img/iphone-screen-1-desktop@1x.png);
+    background-image: url(../img/iphone-screen-1-desktop@1x.png);
   }
   .offers__wrap > :nth-child(2) {
-    background-image: url(../../img/iphone-screen-2-desktop@1x.png);
+    background-image: url(../img/iphone-screen-2-desktop@1x.png);
   }
   .offers__wrap > :nth-child(3) {
-    background-image: url(../../img/iphone-screen-3-desktop@1x.png);
+    background-image: url(../img/iphone-screen-3-desktop@1x.png);
   }
   .offers__bg-wrap {
     background-position-y: -79px;
@@ -2340,7 +2340,7 @@ body {
     padding-top: 147px;
     padding-right: 138px;
     padding-left: 138px;
-    background-image: url(../../img/icon-quotes.svg);
+    background-image: url(../img/icon-quotes.svg);
     background-repeat: no-repeat;
     background-position-x: 445px;
     background-position-y: 34px;
@@ -2389,7 +2389,7 @@ body {
   .reviews__text::after {
     position: absolute;
     content: "";
-    background: url(../../img/icon-review-arrow-right.svg) no-repeat;
+    background: url(../img/icon-review-arrow-right.svg) no-repeat;
     height: 42px;
     width: 26px;
     right: 6px;
@@ -2399,7 +2399,7 @@ body {
   .reviews__text::before {
     position: absolute;
     content: "";
-    background: url(../../img/icon-review-arrow-left.svg) no-repeat;
+    background: url(../img/icon-review-arrow-left.svg) no-repeat;
     height: 42px;
     width: 26px;
     left: 10px;
@@ -2407,10 +2407,10 @@ body {
     cursor: pointer;
   }
   .reviews__text:hover::before {
-    background: url(../../img/icon-review-arrow-left-hover.svg) no-repeat;
+    background: url(../img/icon-review-arrow-left-hover.svg) no-repeat;
   }
   .reviews__text:hover::after {
-    background: url(../../img/icon-review-arrow-right-hover.svg) no-repeat;
+    background: url(../img/icon-review-arrow-right-hover.svg) no-repeat;
   }
   .reviews__text:active::before {
     opacity: 0.5;
@@ -2438,7 +2438,7 @@ body {
     font-size: 24px;
   }
   .table-price__name--hit {
-    background-image: url(../../img/bg-hit.svg);
+    background-image: url(../img/bg-hit.svg);
   }
   .table-price__name--hit .table-price__name-hit {
     top: 21px;
@@ -2480,7 +2480,7 @@ body {
     margin-right: 10px;
   }
   .map {
-    background-image: url(../../img/bg-map-desktop@1x.jpg);
+    background-image: url(../img/bg-map-desktop@1x.jpg);
     background-repeat: no-repeat;
   }
   .map__id {
@@ -2902,7 +2902,7 @@ body {
     width: 360px;
   }
   .bg-header-wrap {
-    background-image: url(../../img/bg-back-desktop@1x.jpg);
+    background-image: url(../img/bg-back-desktop@1x.jpg);
     background-repeat: no-repeat;
     background-size: 2560px auto;
     background-position: center;
@@ -2941,24 +2941,24 @@ body {
 }
 @media (min-width: 960px) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 960px) and (min-resolution: 144dpi), (min-width: 960px) and (min-resolution: 1.5dppx) {
   .download-app {
-    background-image: url(../../img/iphone-hand-desktop@2x.png);
+    background-image: url(../img/iphone-hand-desktop@2x.png);
   }
   .offers__wrap > :nth-child(1) {
-    background-image: url(../../img/iphone-screen-1-desktop@2x.png);
+    background-image: url(../img/iphone-screen-1-desktop@2x.png);
     background-size: 292px;
   }
   .offers__wrap > :nth-child(2) {
-    background-image: url(../../img/iphone-screen-2-desktop@2x.png);
+    background-image: url(../img/iphone-screen-2-desktop@2x.png);
     background-size: 292px;
   }
   .offers__wrap > :nth-child(3) {
-    background-image: url(../../img/iphone-screen-3-desktop@2x.png);
+    background-image: url(../img/iphone-screen-3-desktop@2x.png);
     background-size: 292px;
   }
   .map {
-    background-image: url(../../img/bg-map-desktop@2x.jpg);
+    background-image: url(../img/bg-map-desktop@2x.jpg);
   }
   .bg-header-wrap {
-    background-image: url(../../img/bg-back-desktop@2x.jpg);
+    background-image: url(../img/bg-back-desktop@2x.jpg);
   }
 }
